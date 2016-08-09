@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/abhijeet/dev/projects/jwplayer/jwplayer-sdk-android-demo/CastCompanionLibrary-android/build/intermediates/res/merged/release/drawable-mdpi-v11/ic_stat_content_remove.png",
+        "source": "/home/abhijeet/dev/projects/jwplayer/jwplayer-sdk-android-demo/CastCompanionLibrary-android/res/drawable-mdpi-v11/ic_stat_content_remove.png"
+    },
+    {
+        "merged": "/home/abhijeet/dev/projects/jwplayer/jwplayer-sdk-android-demo/CastCompanionLibrary-android/build/intermediates/res/merged/release/drawable-mdpi-v11/ic_stat_action_democast.png",
+        "source": "/home/abhijeet/dev/projects/jwplayer/jwplayer-sdk-android-demo/CastCompanionLibrary-android/res/drawable-mdpi-v11/ic_stat_action_democast.png"
+    },
+    {
+        "merged": "/home/abhijeet/dev/projects/jwplayer/jwplayer-sdk-android-demo/CastCompanionLibrary-android/build/intermediates/res/merged/release/drawable-mdpi-v11/ic_stat_action_notification.png",
+        "source": "/home/abhijeet/dev/projects/jwplayer/jwplayer-sdk-android-demo/CastCompanionLibrary-android/res/drawable-mdpi-v11/ic_stat_action_notification.png"
+    }
+]
